@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <!--Historical Places-->
+    <string name="category_historical">Hıstory</string>
+
+    <string name="topkapiTitle">Topkapı Palace</string>
+    <string name="topkapi">One of the best historical places in Istanbul is the Topkapi Palace. Museum is open everyday except Tuesdays.</string>
+
+    <string name="ayasofyaTitle">Hagia Sofia</string>
+    <string name="ayasofya">As a former church, mosque, and now museum, this structural building represents the crossover that happened to Constantinople from Byzantine rule to Ottoman grandeur.</string>
+
+    <string name="yerebatanTitle">Yerebatan Cistern</string>
+    <string name="yerebatan">The figures allowed in the water are the large carp fish illuminated by floodlight. Most visitors instead head to the back of the cistern to see the unusual upside heads of Medusa.</string>
+
+    <string name="kizkulesiTitle">Maiden\'s Tower</string>
+    <string name="kizkulesi">The name comes from a legend: the Byzantine emperor heard a prophecy telling him that his beloved daughter would die at the age of 18 by a snake.</string>
+
+    <!--Nature and Outdoor-->
+    <string name="category_nature">Outdoor</string>
+
+    <string name="gulhaneTitle">Gulhane Park</string>
+    <string name="gulhane">Gülhane Park was once the outer garden of Topkapı Palace, accessible only to the royal court. These days crowds of locals come here to picnic and enjoy wonderful views.</string>
+
+    <string name="emirganTitle">Emirgan Park</string>
+    <string name="emirgan">A historical urban park located in the Sarıyer district of Istanbul. It is one of the largest public parks in Istanbul</string>
+
+    <string name="belgradTitle">Belgrad Forest</string>
+    <string name="belgrad">Belgrad Forest is a mixed deciduous forest lying adjacent to Istanbul. Houses many plant, bird and animal species. The most common tree in the forest is sessile oak.</string>
+
+    <string name="arkeolojiTitle">Istanbul Archaeology Museum</string>
+    <string name="arkeoloji">Separated into three distinct sections, prize antiques include the sarcophagus of Alexander the Great, treasures from the Babylon and Hittite empires as well as 17th century Ottoman ceramics.</string>
+
+    <string name="yildizTitle">Yildiz Park</string>
+    <string name="yildiz">The park is located in Yıldız quarter between the palaces of Yıldız and Çırağan. Yıldız Park was once part of the imperial garden of Yıldız Palace.</string>
+
+    <!--Night Life-->
+    <string name="category_nightLife">Nıght Lıfe</string>
+
+    <string name="karakoyTitle">Karaköy Neighborhood</string>
+    <string name="karakoy">The district of Karaköy became this last few years the meeting point of Istanbul’s hipsters and artists.Amid the small artisans of another era, you will find many small cafes, trendy stores and trendy bars.</string>
+
+    <string name="arnavutkoyTitle">Arnavutkoy Neighborhood</string>
+    <string name="arnavutkoy">This area that was and still is the flagship place to enjoy a good fish experienced a lot of small and trendy bar opening that are a good option to enjoy a drink and party after dinner. </string>
+
+    <string name="nisantasiTitle">Nisantasi Neighborhood</string>
+    <string name="nisantasi">Nişantaşı is a central district of Istanbul with a western lifesty; divided into two parts: one that is devoted to fashion and luxury brands, and another more relaxed where new urban lifestyles are the norm.</string>
+
+    <string name="cihangirTitle">Cihangir Neighborhood </string>
+    <string name="cihangir">Close to Taksim Square, this district is an area where many artists, hispters and expats live. Here you will not find luxury boutiques or big brands but a whole range of small shops, coffees, conceptual bars and traditional restaurants.</string>
+
+    <string name="kadikoyTitle">Kadikoy District</string>
+    <string name="kadikoy">Kadikoy is a large district of the Asian side where life is good and smooth. This is rather a secular middle class area and although it is far from the touristic areas, it is worth a look!</string>
+
+    <string name="bosphorusTitle">Bosphorus Tour</string>
+    <string name="bosphorus">If you’re in town between May and September. You won’t regret it</string>
+
+    <!--Hotels-->
+    <string name="category_hotels">Hotels</string>
+
+    <string name="celalSultanTitle">Celal Sultan Hotel</string>
+    <string name="celalSultan">4-star hotel with restaurant, near Basilica Cistern. Free hot/cold buffet breakfast and free WiFi. Collect nights</string>
+    <string name="celalSultanAddress">Yerebatan Caddesi Salkimsogut Sokak 16 Sultanahmet, 34410, İstanbul, Türkiye</string>
+    <string name="celalSultanTell">+90(212)5209323</string>
+
+    <string name="ertenKonakTitle">Erten Konak</string>
+    <string name="ertenKonak">Restaurant. Free Wifi. Pet friendly</string>
+    <string name="ertenKonakAddress">Akbıyık Caddesi Akbıyık Değirmeni Sokak 8/10 Sultanahmet Fatih, 34122, İstanbul, Türkiye</string>
+    <string name="ertenKonakTell">+90(212)4585000</string>
+
+    <string name="wyndhamTitle">Wyndham Istanbul Old City</string>
+    <string name="wyndham">5 star Hotel with 265 room. Free Wife. Pool. CarPark. Restaurant. Bar. Gym. No pets allowed</string>
+    <string name="wyndhamAddress">Balabanaga Mahallesi, Fethibe, Laleli-Fatih, 34134, İstanbul, Türkiye</string>
+    <string name="wyndhamTell">+90(212)514 90 00</string>
+
+</resources>
